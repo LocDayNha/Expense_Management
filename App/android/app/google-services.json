@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "999490167711",
+    "project_id": "managementfinance-35a99",
+    "storage_bucket": "managementfinance-35a99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999490167711:android:a2e3ffb19a7a0a727053aa",
+        "android_client_info": {
+          "package_name": "com.projectwithagile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf2v0v2xEidnnlHfiabt2t0nHdxaEZUhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
